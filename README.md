@@ -18,3 +18,12 @@ This tool references US government and authoritative datasets for accurate, tran
 
 [https://jouleio.com/](https://jouleio.com/)
 
+
+## Try the Calculators
+
+Free, no-signup solar tools that use the data sources documented here:
+
+- [Solar Panel Calculator](https://jouleio.com/solar-panel-calculator/)
+- [Solar Roof Calculator](https://jouleio.com/solar-roof-calculator/)
+- [Home Energy Audit](https://jouleio.com/home-energy-audit/)
+
